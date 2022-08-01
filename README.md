@@ -7,11 +7,12 @@
 Tech Stack + Tools:
 
 - Visual Studio Code
-- Javascript
+- Javascript ES6
+- Node.JS
+- React
+- React Native
 - PosgreSQL
 - Express
-- React
-- Node
 - Git
 - GitHub
 - Trello
