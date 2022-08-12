@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OneInfiniteLoops
+👋 Hi, I’m @OneInfiniteLoops
 
 Tech Stack + Tools:
 
